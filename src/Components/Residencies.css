@@ -1,0 +1,15 @@
+r.head{
+    margin-bottom: 2rem;
+}
+
+.r-card{
+    gap: 0.6rem;
+    max-width: max-content;
+    padding: 1rem;
+    margin: auto;
+}
+
+.r-card>img{
+    max-width: 15rem;
+    width: 100%;
+}
